@@ -1,6 +1,6 @@
 baseURL: "https://rifatcanuzunok.github.io/CV/"
 languageCode: "en-us"
-title: "Resume | RIFATCAN UZUNOK"
+title: "Rıfatcan Uzunok | Resume"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
