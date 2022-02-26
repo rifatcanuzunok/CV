@@ -10,8 +10,7 @@
 
     - role: Intern
       date: "08.2021 - 09.2021"
-      details: "- (PLACEHOLDER) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+      details: "- Responsible for a risk management software called FonRisk. Successfuly recreated the main module in Python for Value at Risk calculations "
 - company: Yildiz Technical University Data Science Community
   roles:
     - role: Co-Founder & Vice President
