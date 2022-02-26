@@ -14,9 +14,9 @@
 - company: Yildiz Technical University Data Science Community
   roles:
     - role: Co-Founder & Vice President
-      date: "09-2019 - 08-2021"
+      date: "09.2019 - 08.2021"
     - role: Instructor
-      date: "10-2021 - 12-2021"
+      date: "10.2021 - 12.2021"
       details: "- Instructor of Dive Into Data, an introduction to Python for Data Analysis which covers, Objects and Data Structure Basics, Statements, Methods & Functions, Numpy, Pandas, Seaborn, Matplotlib, Exploratory Data Analysis, Outlier Analysis"
 
 
