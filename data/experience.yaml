@@ -1,0 +1,31 @@
+
+- company: Finnet Elektronik Yayıncılık Data İletişim
+  roles:
+    - role: Data Scientist | Research And Development Assistant Specialist
+      details: "- Designed and developed a comprehensive financial asset selector software in Python using PCA for asset elimination,
+      modern portfolio optimization techniques for asset allocation and pairs trade strategy for trading.
+
+      - Built a web scraper to find penalized stocks shared on KAP which controls on daily basis and writes to database"
+      date: "09.2021 -  Present"
+
+    - role: Intern
+      date: "08.2021 - 09.2021"
+      details: "- (PLACEHOLDER) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
+- company: Yildiz Technical University Data Science Community
+  roles:
+    - role: Co-Founder & Vice President
+      date: "09-2019 - 08-2021"
+    - role: Instructor
+      date: "10-2021 - 12-2021"
+      details: "- Instructor of Dive Into Data, an introduction to Python for Data Analysis which covers, Objects and Data Structure Basics, Statements, Methods & Functions, Numpy, Pandas, Seaborn, Matplotlib, Exploratory Data Analysis, Outlier Analysis"
+
+
+
+#- company: Uber
+#  roles:
+#    - role: Driver
+#      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+#              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
+#              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
+#      date: "2017 - 2018"

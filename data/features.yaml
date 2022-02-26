@@ -1,0 +1,95 @@
+about:
+  name: Rıfatcan Uzunok
+  tagline: Data Scientist
+  phone: "+90 554 753 73 92"
+  email: rifatcanuzunok@gmail.com
+  links:
+    - title: rifatcanuzunok
+      url: https://tr.linkedin.com/in/rifatcanuzunok
+      icon: fab fa-linkedin-in
+    - title: rifatcanuzunok
+      url: https://github.com/rifatcanuzunok
+      icon: fab fa-github
+  details: |
+    Enthusiastic statistics student at Yildiz Technical University. Highly motivated to contribute to team
+    success through hard work, attention to detail and excellent organization skills.
+
+
+skills:
+  - groupName: Summary
+    list:
+      - Statistics
+      - Programming
+      - Data Analysis
+      - Data Visualization
+      - Machine Learning
+
+  - groupName: Programming
+    list:
+      - Python
+      - SQL
+      - Git
+      - Excel
+      - SPSS
+      - Docker
+      - Linux
+
+  #- groupName: Programming
+  #  list:
+  #    - C# - Git - Docker - NGINX
+  #    - Linux - CentOS RHEL
+
+#interests:
+#  - Data Science
+#  - Machine Learning
+#  - Financial Time Series
+#  - Econometrics
+
+languages:
+  - name: Turkish
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+#      - "YDS: 86.25 - 2018"
+#      - "TOEFL: 109 - 2021"
+
+# This will use the default widget: "details-list"
+awards:
+  - title: "Tübitak - Graduation Project"
+    date: "2017"
+    subtitle: "A Decision Support System for 3D Cutting Problem"
+    #details: |
+    #   - add more here if you like to.
+    #   - or just comment out/delete the field.
+    links:
+      - title: example
+        url: https://mertbakir.gitlab.io
+        icon: fas fa-bolt
+        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+      - title: second link.
+        url: https://esdfdsfdsf
+        icon: "-" # you can get rid of the icon by entering dummy text
+        prefix: "omg"
+
+certificates:
+  - title: "Data Science and Machine Learning Bootcamp"
+    subtitle: VBO
+    date: "2021"
+    link: https://photos.app.goo.gl/ewNMJddsKMjJEziCA # This link will be on title level.
+
+  - title: "Automate the Boring Stuff with Python Programming"
+    subtitle: Udemy
+    date: "2021"
+    link: https://udemy-certificate.s3.amazonaws.com/image/UC-963b8057-0da9-4ace-83e0-e14a8befc687.jpg
+
+  - title: "The Complete Pandas Bootcamp "
+    subtitle: Udemy
+    date: "2020"
+    link: https://udemy-certificate.s3.amazonaws.com/image/UC-574fa7fd-14a3-4a8c-bc14-d85b2f41f148.jpg
+
+  - title: "The Complete SQL Bootcamp "
+    subtitle: Udemy
+    date: "2021"
+    link: https://udemy-certificate.s3.amazonaws.com/image/UC-48d6fd2c-63bf-452f-8d71-ab5723f4616c.jpg

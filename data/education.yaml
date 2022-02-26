@@ -1,0 +1,10 @@
+- name: "BSc. Statistics"
+  university: "Yildiz Technical University"
+  #more: "English - with Thesis" # Optional field, if you want to add a non-standard line.
+  date: "2017 - 2022"
+  gpa: "3.4 / 4.00"
+
+- #name: "BSc. Statistics"
+  university: "Universidad de Salamanca"
+  more: "Erasmus Exchange Programme"
+  date: "2018 - 2019"
