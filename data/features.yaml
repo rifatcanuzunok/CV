@@ -83,17 +83,17 @@ certificates:
     date: "2021"
     link: https://photos.app.goo.gl/ewNMJddsKMjJEziCA # This link will be on title level.
 
-  - title: "Automate the Boring Stuff with Python Programming"
-    subtitle: Udemy
-    date: "2021"
-    link: https://udemy-certificate.s3.amazonaws.com/image/UC-963b8057-0da9-4ace-83e0-e14a8befc687.jpg
-
-  - title: "The Complete Pandas Bootcamp "
-    subtitle: Udemy
-    date: "2020"
-    link: https://udemy-certificate.s3.amazonaws.com/image/UC-574fa7fd-14a3-4a8c-bc14-d85b2f41f148.jpg
-
-  - title: "The Complete SQL Bootcamp "
-    subtitle: Udemy
-    date: "2021"
-    link: https://udemy-certificate.s3.amazonaws.com/image/UC-48d6fd2c-63bf-452f-8d71-ab5723f4616c.jpg
+#  - title: "Automate the Boring Stuff with Python Programming"
+#    subtitle: Udemy
+#    date: "2021"
+#    link: https://udemy-certificate.s3.amazonaws.com/image/UC-963b8057-0da9-4ace-83e0-e14a8befc687.jpg
+#
+#  - title: "The Complete Pandas Bootcamp "
+#    subtitle: Udemy
+#    date: "2020"
+#    link: https://udemy-certificate.s3.amazonaws.com/image/UC-574fa7fd-14a3-4a8c-bc14-d85b2f41f148.jpg
+#
+#  - title: "The Complete SQL Bootcamp "
+#    subtitle: Udemy
+#    date: "2021"
+#    link: https://udemy-certificate.s3.amazonaws.com/image/UC-48d6fd2c-63bf-452f-8d71-ab5723f4616c.jpg
