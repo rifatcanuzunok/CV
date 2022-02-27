@@ -54,7 +54,7 @@ languages:
     level: Native
 
   - name: English
-    level: Professional
+    level: Advanced
     certificates:
 #      - "YDS: 86.25 - 2018"
 #      - "TOEFL: 109 - 2021"
