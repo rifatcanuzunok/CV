@@ -5,12 +5,14 @@
       details: "- Designed and developed a comprehensive financial asset selector software in Python using PCA for asset elimination,
       modern portfolio optimization techniques for asset allocation and pairs trade strategy for trading.
 
-      - Built a web scraper to find penalized stocks shared on KAP which controls on daily basis and writes to database"
+      - Built a web scraper to find penalized stocks shared on KAP which controls on daily basis and writes to database
+      
+      - Responsible for a risk management software called FonRisk. Successfuly recreated the main module in Python for Value at Risk calculations."
       date: "09.2021 -  Present"
 
-    - role: Intern
-      date: "08.2021 - 09.2021"
-      details: "- Responsible for a risk management software called FonRisk. Successfuly recreated the main module in Python for Value at Risk calculations. "
+    #- role: Intern
+    #  date: "08.2021 - 09.2021"
+     # details: "- Responsible for a risk management software called FonRisk. Successfuly recreated the main module in Python for Value at Risk calculations. "
 - company: Yildiz Technical University Data Science Community
   roles:
     - role: Co-Founder & Vice President
